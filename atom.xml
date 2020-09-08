@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wayneliang94.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-09-08T09:56:08.843Z</updated>
+    <title>WayneLAB</title>
+    <updated>2020-09-08T09:59:25.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wayneliang94.github.io"/>
     <link rel="self" href="https://wayneliang94.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://wayneliang94.github.io/images/avatar.png</logo>
     <icon>https://wayneliang94.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, WayneLAB</rights>
     <entry>
         <title type="html"><![CDATA[我的第一篇博客]]></title>
         <id>https://wayneliang94.github.io/post/wo-de-di-yi-pian-bo-ke/</id>
