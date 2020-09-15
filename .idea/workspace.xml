@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ace8a8d0-b12a-4a99-a379-1bc5892a26bc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/tag/CS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/CS/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/Math/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/Math/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/Phil/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/Phil/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/Robot/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/Robot/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +18,34 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tag/CS/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
+            <state relative-caret-position="71">
+              <caret line="97" column="34" selection-start-line="97" selection-start-column="34" selection-end-line="97" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tag/Math/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="97" column="38" selection-start-line="97" selection-start-column="38" selection-end-line="97" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tag/Phil/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="97" column="38" selection-start-line="97" selection-start-column="38" selection-end-line="97" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tag/Robot/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
               <caret line="97" column="34" selection-start-line="97" selection-start-column="34" selection-end-line="97" selection-end-column="34" />
             </state>
           </provider>
@@ -34,6 +64,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/tag/Math/index.html" />
+        <option value="$PROJECT_DIR$/tag/Phil/index.html" />
+        <option value="$PROJECT_DIR$/tag/Robot/index.html" />
         <option value="$PROJECT_DIR$/tag/CS/index.html" />
       </list>
     </option>
@@ -65,6 +98,24 @@
               <item name="wayneliang94.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="tag" type="462c0819:PsiDirectoryNode" />
               <item name="CS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wayneliang94.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wayneliang94.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="tag" type="462c0819:PsiDirectoryNode" />
+              <item name="Math" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wayneliang94.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wayneliang94.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="tag" type="462c0819:PsiDirectoryNode" />
+              <item name="Phil" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wayneliang94.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wayneliang94.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="tag" type="462c0819:PsiDirectoryNode" />
+              <item name="Robot" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wayneliang94.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -130,9 +181,30 @@
     <entry file="file://$PROJECT_DIR$/tags/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/tag/Math/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="97" column="38" selection-start-line="97" selection-start-column="38" selection-end-line="97" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tag/Phil/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="97" column="38" selection-start-line="97" selection-start-column="38" selection-end-line="97" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tag/Robot/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="97" column="34" selection-start-line="97" selection-start-column="34" selection-end-line="97" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tag/CS/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
+        <state relative-caret-position="71">
           <caret line="97" column="34" selection-start-line="97" selection-start-column="34" selection-end-line="97" selection-end-column="34" />
         </state>
       </provider>
