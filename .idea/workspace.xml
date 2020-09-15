@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ace8a8d0-b12a-4a99-a379-1bc5892a26bc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/tag/CS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/CS/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/Math/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/Math/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/Phil/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/Phil/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/Robot/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/Robot/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="ace8a8d0-b12a-4a99-a379-1bc5892a26bc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tag/CS/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="97" column="34" selection-start-line="97" selection-start-column="34" selection-end-line="97" selection-end-column="34" />
+            <state relative-caret-position="401">
+              <caret line="119" column="25" selection-start-line="119" selection-start-column="25" selection-end-line="119" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -156,7 +151,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
@@ -204,8 +198,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tag/CS/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="97" column="34" selection-start-line="97" selection-start-column="34" selection-end-line="97" selection-end-column="34" />
+        <state relative-caret-position="401">
+          <caret line="119" column="25" selection-start-line="119" selection-start-column="25" selection-end-line="119" selection-end-column="25" />
         </state>
       </provider>
     </entry>
