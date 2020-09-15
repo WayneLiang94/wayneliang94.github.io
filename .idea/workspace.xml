@@ -31,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/paper/templates/post.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="63" column="50" selection-start-line="63" selection-start-column="50" selection-end-line="63" selection-end-column="50" />
+            <state relative-caret-position="482">
+              <caret line="64" column="14" lean-forward="true" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -86,8 +86,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="91" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="258" />
+    <option name="y" value="64" />
     <option name="width" value="1440" />
     <option name="height" value="821" />
   </component>
@@ -154,7 +155,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="91" width="1440" height="821" extended-state="0" />
+    <frame x="27" y="52" width="1440" height="821" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
@@ -217,8 +218,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/paper/templates/post.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="63" column="50" selection-start-line="63" selection-start-column="50" selection-end-line="63" selection-end-column="50" />
+        <state relative-caret-position="482">
+          <caret line="64" column="14" lean-forward="true" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
         </state>
       </provider>
     </entry>
