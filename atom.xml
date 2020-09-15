@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://wayneliang94.github.io</id>
     <title>WayneLAB</title>
-    <updated>2020-09-15T07:59:01.686Z</updated>
+    <updated>2020-09-15T08:00:51.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="https://wayneliang94.github.io"/>
+    <link rel="self" href="https://wayneliang94.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>https://wayneliang94.github.io/images/avatar.png</logo>
+    <icon>https://wayneliang94.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, WayneLAB</rights>
     <entry>
         <title type="html"><![CDATA[【数据结构-1】绪论]]></title>
-        <id>http://localhost:4000/post/shu-ju-jie-gou-1-xu-lun/</id>
-        <link href="http://localhost:4000/post/shu-ju-jie-gou-1-xu-lun/">
+        <id>https://wayneliang94.github.io/post/shu-ju-jie-gou-1-xu-lun/</id>
+        <link href="https://wayneliang94.github.io/post/shu-ju-jie-gou-1-xu-lun/">
         </link>
         <updated>2020-09-15T06:15:21.000Z</updated>
         <content type="html"><![CDATA[<p>数据概念：数据对象、数据元素、数据项<br>
