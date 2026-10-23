@@ -16,7 +16,7 @@
 
 ## 首次启用自动发布
 
-发布流程会先尝试使用 GitHub 自动提供的短期令牌将 Pages 来源切换到 GitHub Actions，并读取设置确认；如果仓库权限不允许，该步骤会提示警告。此时在 [仓库 Pages 设置](https://github.com/WayneLiang94/wayneliang94.github.io/settings/pages) 将 **Build and deployment → Source** 设为 **GitHub Actions**。保留仓库的 Actions 运行权限，以及 `github-pages` 环境允许 `master` 部署。
+在 [仓库 Pages 设置](https://github.com/WayneLiang94/wayneliang94.github.io/settings/pages) 将 **Build and deployment → Source** 设为 **GitHub Actions**。保留仓库的 Actions 运行权限，以及 `github-pages` 环境允许 `master` 部署。
 
 每次提交（包括后台保存文章）触发 `.github/workflows/publish.yml`。该流程安装经哈希锁定的依赖、运行测试、构建 `_site`、验证链接、上传并部署 Pages artifact。切换来源能避免旧的分支发布流程与新的构建流程互相覆盖。不需要在仓库 Secrets 中保存写作令牌，Actions 使用 GitHub 自带的短期令牌。
 
