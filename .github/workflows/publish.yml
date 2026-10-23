@@ -37,6 +37,12 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      - uses: actions/checkout@v4
+      - name: Select GitHub Actions as Pages source
+        continue-on-error: true
+        env:
+          PAGES_SETTINGS_TOKEN: ${{ github.token }}
+        run: python3 scripts/configure_pages.py
       - name: Deploy GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
