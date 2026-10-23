@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "learning-notes",
+    "title": "如何把学习变成可复用的笔记",
+    "category": "学习方法",
+    "date": "2026-10-23",
+    "summary": "从一个问题出发，用解释、例子与复盘建立自己的知识体系。",
+    "url": "/post/learning-notes/"
+  },
+  {
+    "slug": "shu-ju-jie-gou-1-xu-lun",
+    "title": "【数据结构】1.1 绪论",
+    "category": "计算机",
+    "date": "2020-09-15",
+    "summary": "从数据元素、逻辑结构到存储方式，梳理数据结构的基本概念。",
+    "url": "/post/shu-ju-jie-gou-1-xu-lun/"
+  },
+  {
+    "slug": "robot",
+    "title": "机器人：感知、规划与控制",
+    "category": "机器人",
+    "date": "2020-09-09",
+    "summary": "从坐标变换和反馈控制出发，建立机器人系统的整体认识。",
+    "url": "/post/robot/"
+  },
+  {
+    "slug": "math",
+    "title": "数学：从直觉走向推导",
+    "category": "数学",
+    "date": "2020-09-09",
+    "summary": "以线性代数、微积分和概率为主线，把公式与具体问题联系起来。",
+    "url": "/post/math/"
+  },
+  {
+    "slug": "cs",
+    "title": "计算机基础学习地图",
+    "category": "计算机",
+    "date": "2020-09-09",
+    "summary": "用数据结构、操作系统、网络和组成原理串起程序运行的全过程。",
+    "url": "/post/cs/"
+  }
+]

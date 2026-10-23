@@ -1,6 +1,19 @@
 <!doctype html>
-<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>【数据结构】1.1 绪论 · WayneLAB</title><meta name="description" content="WayneLAB · 计算机、数学与机器人的学习笔记。温故而知新。"><link rel="icon" href="/favicon.ico"><link rel="stylesheet" href="/styles/main.css"><link rel="alternate" type="application/atom+xml" title="WayneLAB RSS" href="/atom.xml"></head>
-<body><a class="skip" href="#main">跳至内容</a><header><a class="brand" href="/">Wayne<span>LAB</span><small>温故而知新</small></a><nav aria-label="主导航"><a href="/">首页</a><a href="/tag/CS/">计算机</a><a href="/tag/Math/">数学</a><a href="/tag/Robot/">机器人</a><a href="/archives/">归档</a><a href="/post/about/">关于</a></nav></header><main id="main"><article class="prose"><a class="back" href="/tag/CS/">← 计算机</a><div class="meta"><time datetime="2020-09-15">2020-09-15</time><span>学习笔记</span></div><h1>【数据结构】1.1 绪论</h1><p class="lead">从数据元素、逻辑结构到存储方式，梳理数据结构的基本概念。</p><p>数据概念：数据对象、数据元素、数据项<br>
-逻辑结构：集合、线性、树、网<br>
-存储结构：顺序存储、非顺序存储（链表、散列表）<br>
-数据的运算：增加新数据、输出数据、插入新数据、查询数据、删除数据...</p><h2>用通讯录理解三层概念</h2><p>一份通讯录是数据对象，其中每位联系人的记录是数据元素，姓名和电话号码则是数据项。区分这三层，有助于明确程序究竟在处理什么。</p><h2>逻辑结构与存储结构</h2><p>逻辑结构描述元素之间的关系：线性表有前后顺序，树具有层级，图表达更一般的连接。存储结构描述这些关系在内存中的实现：同一个线性表既可以用数组，也可以用链表表示。</p><h2>选择结构时先看操作</h2><p>数组支持按下标直接访问；链表在已知节点位置时可以高效修改链接，但查找节点仍可能需要遍历。不能只比较一个操作，应结合访问、更新频率与内存开销判断。</p><h2>练习</h2><p>为一个经常查询、偶尔修改的通讯录选择存储方案，再思考当需求改为频繁插入时，你的选择是否变化。</p><hr><a href="/archives/">继续探索其他笔记 →</a></article></main><footer><span>WayneLAB · 保持好奇，持续记录。</span><div><a href="/tags/">全部标签</a><a href="/atom.xml">RSS 订阅 ↗</a><a href="https://github.com/WayneLiang94">GitHub ↗</a></div></footer></body></html>
+<html lang="zh-CN">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="color-scheme" content="light"><meta name="generator" content="WayneLAB"><title>【数据结构】1.1 绪论 · WayneLAB</title><meta name="description" content="从数据元素、逻辑结构到存储方式，梳理数据结构的基本概念。"><meta property="og:title" content="【数据结构】1.1 绪论 · WayneLAB"><meta property="og:description" content="从数据元素、逻辑结构到存储方式，梳理数据结构的基本概念。"><meta property="og:type" content="website"><meta property="og:url" content="https://wayneliang94.github.io/post/shu-ju-jie-gou-1-xu-lun/"><link rel="canonical" href="https://wayneliang94.github.io/post/shu-ju-jie-gou-1-xu-lun/"><link rel="icon" href="/favicon.ico"><link rel="stylesheet" href="/styles/main.css"><link rel="alternate" type="application/atom+xml" title="WayneLAB RSS" href="/atom.xml"></head>
+<body><a class="skip" href="#main">跳至内容</a>
+<header class="site-header"><a class="brand" href="/" aria-label="WayneLAB 首页"><span class="brand-icon" aria-hidden="true">w<span>.</span></span><span>Wayne<span class="brand-light">LAB</span><small>一个人的数字花园</small></span></a><nav aria-label="主导航"><a href="/">首页</a><a href="/archives/" aria-current="page">文章</a><a href="/tags/">探索</a><a href="/post/about/">关于</a><a class="nav-rss" href="/atom.xml" aria-label="RSS 订阅">RSS <span aria-hidden="true">↗</span></a></nav></header>
+<main id="main"><div class="reading-layout"><article class="prose"><a class="back-link" href="/tag/CS/">← 计算机</a><div class="article-meta"><a href="/tag/CS/">计算机</a><span class="meta-dot" aria-hidden="true">·</span><time datetime="2020-09-15">2020-09-15</time><span class="meta-dot" aria-hidden="true">·</span><span>1 分钟阅读</span></div><h1>【数据结构】1.1 绪论</h1><p class="article-lead">从数据元素、逻辑结构到存储方式，梳理数据结构的基本概念。</p><div class="article-body"><p>数据概念：数据对象、数据元素、数据项</p>
+<p>逻辑结构：集合、线性、树、网</p>
+<p>存储结构：顺序存储、非顺序存储（链表、散列表）</p>
+<p>数据的运算：增加新数据、输出数据、插入新数据、查询数据、删除数据...</p>
+<h2>用通讯录理解三层概念</h2>
+<p>一份通讯录是数据对象，其中每位联系人的记录是数据元素，姓名和电话号码则是数据项。区分这三层，有助于明确程序究竟在处理什么。</p>
+<h2>逻辑结构与存储结构</h2>
+<p>逻辑结构描述元素之间的关系：线性表有前后顺序，树具有层级，图表达更一般的连接。存储结构描述这些关系在内存中的实现：同一个线性表既可以用数组，也可以用链表表示。</p>
+<h2>选择结构时先看操作</h2>
+<p>数组支持按下标直接访问；链表在已知节点位置时可以高效修改链接，但查找节点仍可能需要遍历。不能只比较一个操作，应结合访问、更新频率与内存开销判断。</p>
+<h2>练习</h2>
+<p>为一个经常查询、偶尔修改的通讯录选择存储方案，再思考当需求改为频繁插入时，你的选择是否变化。</p></div><div class="article-end"><span>— 感谢阅读 —</span><a href="/archives/">继续探索其他笔记 →</a></div></article></div></main>
+<footer class="site-footer"><div><a class="footer-name" href="/">WayneLAB<span aria-hidden="true">.</span></a><p>温故而知新。让思考留下痕迹。</p></div><div class="footer-links"><a href="/post/about/">关于本站</a><a href="https://github.com/WayneLiang94">GitHub ↗</a><a href="/atom.xml">RSS 订阅 ↗</a><a href="/admin/">写作后台 ↗</a></div><p class="footer-note">保持好奇，持续记录。<span>Made with care &amp; curiosity.</span></p></footer>
+</body></html>
